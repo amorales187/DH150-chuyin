@@ -12,7 +12,8 @@ One of my favorite quotes from Thich Nhat Hanh is
 ### Here's a cute picture of a cat
 ![cute cat](http://placekitten.com/200/200)
 
-Cats | Dogs
+## [Nielson's 10 Usability Heuristics](https://www.nngroup.com/articles/ten-usability-heuristics/)
+Heuristic | Description
 -----|-----
-fish | meat
-meow | woof
+Visibility of system status | user should be able to know the state of the program promptly
+Match between system and real world  | use words and symbols analogously to the real-world and that are familiar
