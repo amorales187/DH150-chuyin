@@ -1,9 +1,5 @@
-# Welcome to Yinyin's DH150 Page! :tada: 
-
+# Digital Humanities 150 Spring 2020: Designing for the Public :tada: 
 ```
-This repo is where I will be posting my assignments for DH-150 
+This quarter, I will be designing a project for social good.
 ```
-
-### Here's a cute picture of a cat
-![cute cat](http://placekitten.com/200/200)
 
