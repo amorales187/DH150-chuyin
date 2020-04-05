@@ -28,10 +28,10 @@ It will serve as a reference for my final project, and I hope to use it as mater
 
 Overall evaluation:
 
-In general, the website offers a creative and modern take on an online museum. 
-It is innovative in its aspirations, although its execution could be improved. 
+At first glance, the website seems to offer a creative and modern take on an online museum.
+It is innovative in its aspirations, although its execution could be improved. The homepage appears to be blank at first, which puzzled me a bit.
 This museum appears to be targeted to academic consumers, given the many citations and intellectual discussion of the theory and politics behind the art. 
-Some basic usability heuristics were not considered, resulting in an aesthetically modern, yet confusing experience.
+
 
 #### 1. Visibility of System Status 
 * Immediately on landing on the home page, there is no text or content on the screen, but just a fullscreen image of a painting and a hamburger menu icon in the top left. Though it makes for a unique and creative opening for a digital museum, it is a little disorienting and could make the user wonder if the page has fully loaded. The user has to hover over the hamburger menu before seeing the title and description of the website. 
@@ -156,7 +156,7 @@ I wanted to get a glimpse of what well-established museums were using as a mediu
 
 Overall evaluation:
 
-Overall, it is a very clunky and bare-bones virtual museum experience. While it is cool to be able to virtually walk through the museum's halls, the experience was not that immersive and makes it difficult to view the art pieces in high-resolution.
+Overall, it seems to be a rather clunky and bare-bones virtual museum experience. While it is cool to be able to virtually walk through the museum's halls, the experience is not that immersive and makes it difficult to view the art pieces in high-resolution.
 
 ![frick virtual museum tour](/images/frick_homepage.png)
 
