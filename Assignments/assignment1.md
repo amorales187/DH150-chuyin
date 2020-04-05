@@ -151,11 +151,17 @@ Overall evaluation:
 
 Overall, it is a very clunky and bare-bones virtual museum experience. While it is cool to be able to virtually walk through the museum's halls, the experience was not that immersive and makes it difficult to view the art pieces in high-resolution.
 
+![frick virtual museum tour](/images/frick_homepage.png)
 
 #### 1. Visibility of System Status 
 * Since it is a virtual tour there should be a map available to let the user know what direction to take to get to a specific room. However, the map cannot be accessed from the virtual tour screen. The user must navigate away from the page to view the museum layout.
  **(3)**    
  
+ *The user must scroll down past the virtual tour window to access the floorplan button*
+ 
+ ![map button](/images/frick_floorplan.png)
+ 
+ ![museum map](/images/frick_floorplan_map.png)
  
 *Recommendation: Add a small map widget that the user can enlarge upon clicking to show them where they are with respect to the museum layout.*
  
@@ -163,6 +169,8 @@ Overall, it is a very clunky and bare-bones virtual museum experience. While it 
 #### 2. Match between system and the real world
 * In virtual 3D environments, the user can typically drag to move towards a certain location (eg. Google Street View). However, this virtual tour only allows you to rotate in a fixed position. Given that the point of this virtual tour is to simulate a real-life museum tour, this inability to move forward to get closer to an art piece is quite frustrating.
 **(3)**  
+
+![navigation controls](/images/frick_nav.png)
 
  *Recommendation: Allow the user to move in four cardinal directions.*
  
@@ -184,26 +192,32 @@ Overall, it is a very clunky and bare-bones virtual museum experience. While it 
  * Because the virtual tour is hosted on the main museum website, there is a possibility that the user may misclick and be sent away from the virtual tour page on accident. There is no warning or confirmation message that prevents the user from navigating away if it was an unintentional click.
  **(2)**
  
- *When the user clicks on an external link, add in a confirmation message letting them know they are navigating away.*
+ *Recommendation: When the user clicks on an external link, add in a confirmation message letting them know they are navigating away.*
  
  #### 6. Recognition rather than recall
  
- * In fullscreen mode, there is no indication of what room you are currently viewing. Because the museum is so extensive, it can be disorienting for the user not to know what room they are in. 
+ * In fullscreen mode, there is no indication of what room you are currently viewing for most pages. Because the museum is so extensive, it can be disorienting for the user not to know what room they are in. For a couple rooms, there is a helpful modal in the top right that says which room the user is in.
  **(2)**
  
- *Recommendation: Add a floating title of the current room to fullscreen mode.*
+ *The Portico Gallery is one of the few rooms that is labeled in fullscreen mode*
+ 
+ ![portico gallery](/images/frick_portico.png)
+ 
+ *Recommendation: Add a floating title of the current room to fullscreen mode for all rooms.*
  
  * There is a dropdown menu above the virtual tour module which lists the rooms in the museum. However, there is no way to know what collections are housed in which locations. This is especially crucial for the museum experience, as most rooms in museums are organized around some theme or collection.
  **(3)**
+ 
+ ![locations menu](/images/frick_menu.png)
  
  *Recommendation: Add a menu option to see what collections are located in each room.*
  
  #### 7. Flexibility and efficiency of use
  
- * If the user already knows what art piece they want to view, there is no easy way to navigate directly to that piece. 
+ * If the user already knows what art piece they want to view, there is no easy way to navigate directly to that piece. The menu to navigate only lists the rooms available to view, but does not allow users to select specific pieces to navigate to.
  **(2)**
  
- *Recommendation: Add a list of pieces located in each room, and allow the user to "jump" to that piece in the museum.*
+ *Recommendation: Add a list of pieces located in each room and allow the user to "jump" to that piece in the museum by clicking on the name of the piece.*
  
   * There is no search feature to allow users to search for a specific piece or filter by collection/subject. More experienced users or return visitors may wish to expedite their tour by selectively visiting certain collections, but the site does support this.
  **(3)**
@@ -219,6 +233,8 @@ Overall, it is a very clunky and bare-bones virtual museum experience. While it 
  * The main window where the rooms are displayed provides a fairly clean and minimalist design. There are only 7 small icons at the bottom, which allows the user to navigate and interact with the room. These are functional and unobtrusive. 
  * Once the user opens a page for a specific piece, however, the layout is cluttered and not immersive. This page is hosted on the main website, so the top navigation links are present and detract from the viewing experience. Additionally, the art piece itself is presented as a small, unimpressive image. It is not the focal point of the page, which it should be.
  **(3)**
+ 
+ ![art piece description page](/images/frick_artpage.png)
  
  *Recommendation: Allow the art piece to take up the majority of the screen and eliminate all unnecessary text.*
  
