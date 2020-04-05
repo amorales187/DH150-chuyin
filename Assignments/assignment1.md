@@ -35,14 +35,14 @@ This museum appears to be targeted to academic consumers, given the many citatio
 
 #### 1. Visibility of System Status 
 * Immediately on landing on the home page, there is no text or content on the screen, but just a fullscreen image of a painting and a hamburger menu icon in the top left. Though it makes for a unique and creative opening for a digital museum, it is a little disorienting and could make the user wonder if the page has fully loaded. The user has to hover over the hamburger menu before seeing the title and description of the website. 
- **(3)**    
+ **(2)**    
  
  ![homepage](/images/vaaam_homepage.png)
  
 *Recommendation: Do not show the forwards and backwards buttons when the user hovers over the side menu to eliminate confusion. This way, users know that they cannot interact with the buttons while hovering over the side menu.*
   
 * A forward and backwards navigation button both appear onscreen when the user hovers over the side menu. This suggests that the user can interact with these buttons while hovering over the menu. However, when the user tries to click them from here, the buttons disappear and the user is unable to navigate forwards/backwards. In order to advance or go back, the user must directly hover over the left or right arrows themselves (not while side menu is open).
-**(3)**    
+**(2)**    
   
   ![navigation](/images/vaaam_menuLinks.png)
   
@@ -132,7 +132,7 @@ This museum appears to be targeted to academic consumers, given the many citatio
  *Recommendation: Remove the map completely, or replace it with a list of locations where the artist has exhibitions and publications.*
  
  * There are pages that are password protected. Given that the site is supposed to mimic a public museum, it seems odd to have any password protected exhibits. Even more so, there is no explanation as to why it is password protected. This may be off-putting to users.
- **(3)**
+ **(2)**
  
  ![password protected](/images/vaaam_password.png)
  
@@ -141,7 +141,7 @@ This museum appears to be targeted to academic consumers, given the many citatio
  #### 10. Help and documentation
  
  * Despite the rather unique layout and purpose of the site, there is no guide/onboarding process to help users become familiar with the site. As this is supposed to be a fully digital museum experience, it is important to guide the users through the process in a clear and well-documented way. The site does a poor job of this.
- **(3)**
+ **(2)**
  
  *Recommendation: Incorporate a walkthrough or onboarding screens to help the user understand the features of the site.*
  
@@ -227,7 +227,7 @@ Overall, it seems to be a rather clunky and bare-bones virtual museum experience
  *Recommendation: Add a list of pieces located in each room and allow the user to "jump" to that piece in the museum by clicking on the name of the piece.*
  
   * There is no search feature to allow users to search for a specific piece or filter by collection/subject. More experienced users or return visitors may wish to expedite their tour by selectively visiting certain collections, but the site does support this.
- **(3)**
+ **(2)**
  
  *Recommendation: Add a search and filter function to allow users to get to specific collections.*
  
@@ -248,14 +248,14 @@ Overall, it seems to be a rather clunky and bare-bones virtual museum experience
  #### 9. Help users recognize, diagnose, and recover from errors
  
  * On the page for a specific art piece, there is no direct link back to the virtual tour window, nor does the page tell you how to get back to the virtual tour. If the user does not realize that this page opened in a new tab, and that the virtual tour is likely on a separate tab, it may be very confusing to figure out how to navigate back. Also, because it is a new tab, the user cannot simply press the back button in the browser to return to the tour.
- **(3)**
+ **(2)**
  
  *Recommendation: Add a link back to the main virtual tour from the art piece's details page.*
  
  #### 10. Help and documentation
  
  * There is no help or documentation for the virtual tour. If a user is confused about how to view specific pieces in the tour or about how to navigate, there is no documentation on these processes.
- **(3)**
+ **(2)**
  
  *Recommendation: Include a help icon on the bottom menu to document frequently asked questions. Additionally, when the user first launches the virtual tour, include a tutorial to orient the user.*
  
