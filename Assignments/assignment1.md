@@ -29,21 +29,30 @@ Some basic usability heuristics were not considered, resulting in an aesthetical
 * Immediately on landing on the home page, there is no text or content on the screen, but just a fullscreen image of a painting and a hamburger menu icon in the top left. Though it makes for a unique and creative opening for a digital museum, it is a little disorienting and could make the user wonder if the page has fully loaded. The user has to hover over the hamburger menu before seeing the title and description of the website. 
  **(3)**    
  
+ ![homepage](/images/vaaam_homepage.png)
+ 
 *Recommendation: Do not show the forwards and backwards buttons when the user hovers over the side menu to eliminate confusion. This way, users know that they cannot interact with the buttons while hovering over the side menu.*
   
 * A forward and backwards navigation button both appear onscreen when the user hovers over the side menu. This suggests that the user can interact with these buttons while hovering over the menu. However, when the user tries to click them from here, the buttons disappear and the user is unable to navigate forwards/backwards. In order to advance or go back, the user must directly hover over the left or right arrows themselves (not while side menu is open).
 **(3)**    
+  
+  ![navigation](/images/vaaam_menuLinks.png)
   
 *Recommendation: Do not show the forwards and backwards buttons when the user hovers over the side menu to eliminate confusion. This way, users know that they cannot interact with the buttons while hovering over the side menu.*
   
 #### 2. Match between system and the real world
 * To navigate backwards and forwards, websites usually allow users to click a forwards/backwards button. However, on this site, users can navigate through the entire site by scrolling up and down or by clicking the forwards and backwards arrows. This does not match the user's initial spatial conception of the site map, as it is unintuitive to think that navigating backwards/forwards on the horizontal axis is equivalent to navigating up/down on the site's vertical axis.
 **(3)**  
+
+*You can scroll down or click the next arrow to get to the About page*
+![scrolling navigation system](/images/vaaam_scrollingNav.png)
   
  *Recommendation: Either remove the forwards/backwards arrows that allow the user to move left and right, or remove the ability to scroll up and down to access the previous and next pages.*
 
 * On the side menu, there are links labeled with names "Michiko Itatani" and "James Numata." Unless the user has already visited the site or knew of them beforehand, they would not know that these are the artists featured in the museum. The links are ambiguous and do not clearly communicate their purpose to the user.*
 **(3)**  
+  
+  ![menu links](/images/vaaam_menuLinks.png)
   
  *Recommendation: Add a header in the menu that reads "Artist Collections" and include the links under this header.*
  
@@ -67,6 +76,8 @@ Some basic usability heuristics were not considered, resulting in an aesthetical
  
  * Some images on the site are embedded in the page alongside text, while others are hidden behind captions that toggle open. This does not appear to be systematically done, with no clear differences between the former and latter types of images.
  **(2)**
+ 
+*Before toggle* ![toggled before](/images/vaam_beforeToggle.png) *After toggle* ![toggled after](/images/vaam_afterToggle.png) 
  
  *Recommendation: Keep consistency by embedding all of the images directly on the page and removing the need to toggle to view them.*
  
@@ -107,10 +118,14 @@ Some basic usability heuristics were not considered, resulting in an aesthetical
  * Under the "Selected Map of Exhibitions and Publications," there is an error loading the Google Map content. There is no explanation of why this error occurred nor how to address it. Additionally, the map is overlaid with text that says "For development purposes only." This is vague and out of context for users. There is no clear purpose for the map. The map is not a main feature of the site, but it is still distracting and takes up a large portion of the page. 
  **(2)**
  
+ ![map error](/images/vaaam_mapError.png)
+ 
  *Recommendation: Remove the map completely, or replace it with a list of locations where the artist has exhibitions and publications.*
  
  * There are pages that are password protected. Given that the site is supposed to mimic a public museum, it seems odd to have any password protected exhibits. Even more so, there is no explanation as to why it is password protected. This may be off-putting to users.
  **(3)**
+ 
+ ![password protected](/images/vaaam_password.png)
  
  *Recommendation: Hide password protected pages entirely, or add a description as to why these pages have been password protected.*
  
