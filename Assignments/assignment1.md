@@ -53,6 +53,7 @@ Some basic usability heuristics were not considered, resulting in an aesthetical
 **(3)**  
 
 *You can scroll down or click the next arrow to get to the About page*
+
 ![scrolling navigation system](/images/vaaam_scrollingNav.png)
   
  *Recommendation: Either remove the forwards/backwards arrows that allow the user to move left and right, or remove the ability to scroll up and down to access the previous and next pages.*
