@@ -4,6 +4,10 @@
 
 Chu Yin Wen | DH-150 | Spring 2020
 
+Understanding the history of our people empowers us to stand in solidarity with our contemporary communities. For Asian Americans, our histories are not always easily accessible through mainstream institutions. Since the first Asian Americans settled in the United States, our people have been marginalized and our narratives erased. With this project, I want to create a digital space for those narratives to be shared. Specifically, I want to create a digital museum that is accessible by people of diverse backgrounds. This includes people of different ethnicities, ages, and technological abilities. 
+
+By creating this digital museum, I hope to amplify the voices of the Asian American community amidst the public sphere.
+
 
 ### Severity Ratings in Heuristic Evaluation - [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 1 = Cosmetic problem only: need not be fixed unless extra time is available on project  
@@ -135,4 +139,100 @@ Some basic usability heuristics were not considered, resulting in an aesthetical
  **(3)**
  
  *Recommendation: Incorporate a walkthrough or onboarding screens to help the user understand the features of the site.*
+ 
+ 
+ ## Website 2: [The Frick Virtual Museum Tour](https://www.frick.org/visit/virtual_tour/west_gallery)
+ 
+Motivation:
+
+I wanted to get a glimpse of what well-established museums were using as a medium for virtual tours. Because the previous website I evaluated stuck to a two-dimension approach to the virtual museum, I decided to explore what a virtual three-dimensional museum tour would look like. 
+
+Overall evaluation:
+
+Overall, it is a very clunky and bare-bones virtual museum experience. While it is cool to be able to virtually walk through the museum's halls, the experience was not that immersive and makes it difficult to view the art pieces in high-resolution.
+
+
+#### 1. Visibility of System Status 
+* Since it is a virtual tour there should be a map available to let the user know what direction to take to get to a specific room. However, the map cannot be accessed from the virtual tour screen. The user must navigate away from the page to view the museum layout.
+ **(3)**    
+ 
+ 
+*Recommendation: Add a small map widget that the user can enlarge upon clicking to show them where they are with respect to the museum layout.*
+ 
+  
+#### 2. Match between system and the real world
+* In virtual 3D environments, the user can typically drag to move towards a certain location (eg. Google Street View). However, this virtual tour only allows you to rotate in a fixed position. Given that the point of this virtual tour is to simulate a real-life museum tour, this inability to move forward to get closer to an art piece is quite frustrating.
+**(3)**  
+
+ *Recommendation: Allow the user to move in four cardinal directions.*
+ 
+ 
+ #### 3. User control and freedom
+ 
+ * There is sufficient user control on the site. The user can easily navigate back to the virtual tour if they accidentally click to view an object. All links open in a new tab instead of navigating away from the current page, allowing them to easily return to the content they were previously viewing.
+ 
+ 
+ #### 4. Consistency and standards
+ * The direction in which you drag to rotate your point of view is counterintuitive to most other similar programs. Typically, the user would drag left to move right, and vice versa. In this tour, the user must drag left to move left and drag right to move right.
+ **(3)**
+ 
+ *Recommendation: Adhere to the typical convention of movement seen in other virtual settings.*
+ 
+ 
+ #### 5. Error prevention
+ 
+ * Because the virtual tour is hosted on the main museum website, there is a possibility that the user may misclick and be sent away from the virtual tour page on accident. There is no warning or confirmation message that prevents the user from navigating away if it was an unintentional click.
+ **(2)**
+ 
+ *When the user clicks on an external link, add in a confirmation message letting them know they are navigating away.*
+ 
+ #### 6. Recognition rather than recall
+ 
+ * In fullscreen mode, there is no indication of what room you are currently viewing. Because the museum is so extensive, it can be disorienting for the user not to know what room they are in. 
+ **(2)**
+ 
+ *Recommendation: Add a floating title of the current room to fullscreen mode.*
+ 
+ * There is a dropdown menu above the virtual tour module which lists the rooms in the museum. However, there is no way to know what collections are housed in which locations. This is especially crucial for the museum experience, as most rooms in museums are organized around some theme or collection.
+ **(3)**
+ 
+ *Recommendation: Add a menu option to see what collections are located in each room.*
+ 
+ #### 7. Flexibility and efficiency of use
+ 
+ * If the user already knows what art piece they want to view, there is no easy way to navigate directly to that piece. 
+ **(2)**
+ 
+ *Recommendation: Add a list of pieces located in each room, and allow the user to "jump" to that piece in the museum.*
+ 
+  * There is no search feature to allow users to search for a specific piece or filter by collection/subject. More experienced users or return visitors may wish to expedite their tour by selectively visiting certain collections, but the site does support this.
+ **(3)**
+ 
+ *Recommendation: Add a search and filter function to allow users to get to specific collections.*
+ 
+ * Also, if the user wants to view all the pieces in a room, they must click on the object in the virtual tour, and for each piece, a new window is opened. This is vastly inefficient and leaves the user stuck with tons of tabs they must close. Additionally, it drastically reduces the immersive quality of the virtual tour experience.
+ **(3)**
+ 
+ *Recommendation: For each piece, allow the user to open a pop-up modal with its details and description.*
+ 
+ #### 8. Aesthetic and minimalist design
+ * The main window where the rooms are displayed provides a fairly clean and minimalist design. There are only 7 small icons at the bottom, which allows the user to navigate and interact with the room. These are functional and unobtrusive. 
+ * Once the user opens a page for a specific piece, however, the layout is cluttered and not immersive. This page is hosted on the main website, so the top navigation links are present and detract from the viewing experience. Additionally, the art piece itself is presented as a small, unimpressive image. It is not the focal point of the page, which it should be.
+ **(3)**
+ 
+ *Recommendation: Allow the art piece to take up the majority of the screen and eliminate all unnecessary text.*
+ 
+ #### 9. Help users recognize, diagnose, and recover from errors
+ 
+ * On the page for a specific art piece, there is no direct link back to the virtual tour window, nor does the page tell you how to get back to the virtual tour. If the user does not realize that this page opened in a new tab, and that the virtual tour is likely on a separate tab, it may be very confusing to figure out how to navigate back. Also, because it is a new tab, the user cannot simply press the back button in the browser to return to the tour.
+ **(3)**
+ 
+ *Recommendation: Add a link back to the main virtual tour from the art piece's details page.*
+ 
+ #### 10. Help and documentation
+ 
+ * There is no help or documentation for the virtual tour. If a user is confused about how to view specific pieces in the tour or about how to navigate, there is no documentation on these processes.
+ **(3)**
+ 
+ *Recommendation: Include a help icon on the bottom menu to document frequently asked questions. Additionally, when the user first launches the virtual tour, include a tutorial to orient the user.*
  
