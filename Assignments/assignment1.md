@@ -1,8 +1,10 @@
+
+# Exploring Stories of Asian America
+
 ## Assignment 1: Heuristic Evaluation
-
-## Exploring Stories of Asian America
-
 Chu Yin Wen | DH-150 | Spring 2020
+
+Project description:
 
 Understanding the history of our people empowers us to stand in solidarity with our contemporary communities. For Asian Americans, our histories are not always easily accessible through mainstream institutions. Since the first Asian Americans settled in the United States, our people have been marginalized and our narratives erased. With this project, I want to create a digital space for those narratives to be shared. Specifically, I want to create a digital museum that is accessible by people of diverse backgrounds. This includes people of different ethnicities, ages, and technological abilities. 
 
@@ -14,9 +16,11 @@ By creating this digital museum, I hope to amplify the voices of the Asian Ameri
 2 = Minor usability problem: fixing this should be given low priority  
 3 = Major usability problem: important to fix, so should be given high priority
 
-## Website 1: [Virtual Asian American Art Museum](https://vaaam.tome.press/)
+## Website 1: [Virtual Asian American Art Museum (VAAAM)](https://vaaam.tome.press/)
 
-Motivation:
+The VAAAM is a digital humanities project that features curated materials from US and international archives and aims to visualize and analyze Asian American art history. By creating this digital museum, the VAAAM enables researchers, art educators, and the public to access these narratives.
+
+Why I chose this website:
 
 This was one of the few websites which shared my vision of giving voice to Asian American stories through a virtual museum. 
 In particular, it provides rich context for each piece and focuses on the Asian American artist as an individual rather than just focusing on their art as pieces in a digital archive. 
@@ -143,7 +147,9 @@ Some basic usability heuristics were not considered, resulting in an aesthetical
  
  ## Website 2: [The Frick Virtual Museum Tour](https://www.frick.org/visit/virtual_tour/west_gallery)
  
-Motivation:
+The Frick is a museum and research center that houses Old Master paintings and European art. Its virtual tour allows the public to access many of its exhibitions from home.
+
+Why I chose this website:
 
 I wanted to get a glimpse of what well-established museums were using as a medium for virtual tours. Because the previous website I evaluated stuck to a two-dimension approach to the virtual museum, I decided to explore what a virtual three-dimensional museum tour would look like. 
 
