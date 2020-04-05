@@ -6,7 +6,7 @@ Chu Yin Wen | DH-150 | Spring 2020
 
 Understanding the history of our people empowers us to stand in solidarity with our contemporary communities. For Asian Americans, our histories are not always easily accessible through mainstream institutions. Since the first Asian Americans settled in the United States, our people have been marginalized and our narratives erased. With this project, I want to create a digital space for those narratives to be shared. Specifically, I want to create a digital museum that is accessible by people of diverse backgrounds. This includes people of different ethnicities, ages, and technological abilities. 
 
-By creating this digital museum, I hope to amplify the voices of the Asian American community amidst the public sphere.
+By creating this digital museum, I hope to amplify the voices of the Asian American community within the public sphere.
 
 
 ### Severity Ratings in Heuristic Evaluation - [Nielson Norman Group](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
