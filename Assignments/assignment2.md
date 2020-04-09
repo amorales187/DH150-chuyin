@@ -32,3 +32,10 @@ With these issues in mind, I crafted three scenarios to test with usability test
 3. Viewing multiple paintings from one room, in detail
 
 For the detailed step-by-step scenarios I included, check out the full [questionnaire](https://forms.gle/RsvqniBv2tfaro7S6).
+
+## Pilot Usability Testing for The Frick Collection Virtual Museum Tour
+Before I conduct a full usability test with this website, I will conduct a pilot test to evaluate whether I have chosen suitable tasks and questions that address the usability issues of interest.
+
+I used ActivePresenter to screen record the user and their interaction with the website. 
+
+View the pilot test [here]().
