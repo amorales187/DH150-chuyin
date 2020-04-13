@@ -34,8 +34,52 @@ With these issues in mind, I crafted three scenarios to test with usability test
 For the detailed step-by-step scenarios I included, check out the full [questionnaire](https://forms.gle/RsvqniBv2tfaro7S6).
 
 ## Pilot Usability Testing for The Frick Collection Virtual Museum Tour
-Before I conduct a full usability test with this website, I will conduct a pilot test to evaluate whether I have chosen suitable tasks and questions that address the usability issues of interest.
+Before I do a full usability test with this website, I conducted this pilot test to evaluate whether I have chosen suitable tasks and questions that address the usability issues of interest.
 
-I used ActivePresenter to screen record the user and their interaction with the website. 
+For the pilot test, I used ActivePresenter to record the user and their interaction with the website. Because of limited access to formal testing spaces, I set up a minimalist portable test lab in my apartment consisting of my laptop, mouse, and desk.
 
-View the pilot test [here]().
+View the pilot test [here](https://drive.google.com/file/d/1Tp4MPKEWIrv2myS8fOpG4XTyMJgXp2jQ/view?usp=sharing).
+
+### Pilot Testing Process
+To get the most out of our usability testing, I needed to consider what questions to ask regarding the user's experience the website before, during, and after completing the usability test tasks. 
+
+The questionnaire can be broken into the following segments:
+
+1. Background questions
+2. Pre-test questions
+3. Task Scenarios
+4. Post-test questions
+5. [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+6. [Product Satisfaction Card](https://elearn.uni-sofia.bg/pluginfile.php/55103/mod_resource/content/0/Resources/Systems_Evaluation/DesirabilityToolkit.doc)
+7. Demographic questions
+
+#### Background questions
+These are meant to capture any prior experiences that might influence the participant's test performance, such as previous exposure to the website or similar sites.
+
+In this case, I asked the user whether they had visited the Frick Collection Virtual Tour site before.
+
+#### Pre-test questions
+These can help clarify the goals of the usability test, including initial impressions and whether they value the product.
+
+Here I asked the user how easy/difficult the virtual tour interface appeared and what they thought the controls at the bottom did.
+
+#### Task Scenarios
+This is the core of the usability test. In this section, I focused on testing the effectiveness of the site (whether the user could complete certain tasks or not). Through the user's facial expressions and verbal comments, I also gleaned a bit about their satisfaction.
+
+Based on the findings of my heuristic evaluation, I decided on these three tasks:
+
+1. Finding a specific painting by name
+* In this task, I wanted to test whether the user would find it difficult to jump between the search function on the main site and the virtual tour itself
+* Since the paintings are catalogued in a database separate from the virtual tour window, I anticipated some difficulty here
+2. "Walking" through the virtual museum by traveling from room to room
+* I chose this task because I imagine that users who seek out a virtual museum experience expect some degree of immersion or similarity to a real life museum visit
+* I foresaw some difficulties here due to the poor integration of the museum map and the virtual rooms
+3. Viewing multiple paintings from one room, in detail
+* Another test of immersion
+* I wanted to test how the user reacted to the limited ability to view the paintings in an immersive way, which is a central component of the museum experience
+
+#### Post-test questions
+
+Here I assessed user perceptions of the difficulty and efficiency of tasks they just completed. Additionally, I included standard measures of satisfaction (SUS) and perceptions (Product Satisfaction Card).
+
+This section mainly consisted of statements paired with Likert Scale responses, which the users could endorse to different degrees.
