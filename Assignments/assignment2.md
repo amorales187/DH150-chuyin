@@ -85,3 +85,6 @@ This section mainly consisted of statements paired with Likert Scale responses, 
 
 #### Demographic questions
 These were standard questions to gather demographic information about the user. I placed these at the end of the questionnaire to prevent these questions from influencing responses on the usability test (stereotype threat, bias).
+
+## What I learned
+*
