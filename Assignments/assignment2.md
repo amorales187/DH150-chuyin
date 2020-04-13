@@ -49,9 +49,9 @@ The questionnaire can be broken into the following segments:
 2. Pre-test questions
 3. Task Scenarios
 4. Post-test questions
-5. [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
-6. [Product Satisfaction Card](https://elearn.uni-sofia.bg/pluginfile.php/55103/mod_resource/content/0/Resources/Systems_Evaluation/DesirabilityToolkit.doc)
-7. Demographic questions
+    * [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
+    * [Product Satisfaction Card](https://elearn.uni-sofia.bg/pluginfile.php/55103/mod_resource/content/0/Resources/Systems_Evaluation/DesirabilityToolkit.doc)
+5. Demographic questions
 
 #### Background questions
 These are meant to capture any prior experiences that might influence the participant's test performance, such as previous exposure to the website or similar sites.
@@ -79,7 +79,9 @@ Based on the findings of my heuristic evaluation, I decided on these three tasks
 * I wanted to test how the user reacted to the limited ability to view the paintings in an immersive way, which is a central component of the museum experience
 
 #### Post-test questions
-
 Here I assessed user perceptions of the difficulty and efficiency of tasks they just completed. Additionally, I included standard measures of satisfaction (SUS) and perceptions (Product Satisfaction Card).
 
 This section mainly consisted of statements paired with Likert Scale responses, which the users could endorse to different degrees.
+
+#### Demographic questions
+These were standard questions to gather demographic information about the user. I placed these at the end of the questionnaire to prevent these questions from influencing responses on the usability test (stereotype threat, bias).
