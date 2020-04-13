@@ -87,4 +87,9 @@ This section mainly consisted of statements paired with Likert Scale responses, 
 These were standard questions to gather demographic information about the user. I placed these at the end of the questionnaire to prevent these questions from influencing responses on the usability test (stereotype threat, bias).
 
 ## What I learned
-*
+* Users' evaluation of the severity of problems differed quite a bit from my own.
+* Users don't always take the path that you would have taken to solve the problem.
+* Users are willing to tolerate some more global usability issues, but may not tolerate more acute, smaller usability issues.
+* Some questions ("How likely are you to do this task?") were too ambiguous and needed my verbal clarification. These could be better articulated on the questionnaire.
+* Because of the unique purpose of this website (entertainment/art consumption), I should have included more measures of subjective sastisfaction that were specific to museum visits. For example, I could have included more qualitative measures of how immersive the user felt or how likely they would prefer this format over real-life museum visits.
+* Next time, I would also include measures of how much they would value a website that allows them to do virtual museum tours.
