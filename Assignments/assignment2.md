@@ -51,20 +51,11 @@ The questionnaire included the following:
     * [Product Satisfaction Card](https://elearn.uni-sofia.bg/pluginfile.php/55103/mod_resource/content/0/Resources/Systems_Evaluation/DesirabilityToolkit.doc)
 5. Demographic questions
 
-### Background questions
-These captured any prior experiences that might influence the participant's test performance, such as previous exposure to the website or similar sites.
+First, I asked the participant about prior experiences that might have influenced the participant's test performance, such as previous exposure to the website or similar sites. Specifically, I asked the user whether they had visited the Frick Collection Virtual Tour site before. Because the participant had not used the site before, I skipped to the pre-test questions to understand the participant's initial impressions. I asked the user how easy/difficult the virtual tour interface appeared and what they thought the controls at the bottom did.
 
-In this case, I asked the user whether they had visited the Frick Collection Virtual Tour site before.
+Then, I read aloud the task scenarios and invited the participant to try to complete them on the site. The participant recorded whether or not they were able to complete each task, and also provided live commentary about the features of the site.
 
-### Pre-test questions
-These helped clarify the goals of the usability test, including initial impressions and whether they value the product.
-
-Here I asked the user how easy/difficult the virtual tour interface appeared and what they thought the controls at the bottom did.
-
-### Task Scenarios
-These were the core of the usability test. In this section, I focused on testing the effectiveness of the site (whether the user could complete certain tasks or not). Through the user's facial expressions and verbal comments, I also learned about their satisfaction.
-
-Tasks: 
+These were the tasks the participant attempted: 
 
 **1. Finding a specific painting by name**
    - In this task, I wanted to test whether the user would find it difficult to jump between the search function on the main site and the virtual tour itself
@@ -78,13 +69,11 @@ Tasks:
    - Another test of immersion
    - I wanted to test how the user reacted to having to open a new tab to view a painting, as well as not being able to view it in full screen
 
-### Post-test questions
 After the user completed the tasks, I assessed user perceptions of the difficulty and efficiency of tasks they just completed using 7-point Likert scales (Very easy/quick to Very difficult/long). 
 
 Additionally, I included standard measures of satisfaction (System Usability Scale) and perceptions (Product Satisfaction Card). The System Usability Scale includes items to assess ease of use and learnability. The Product Satisfaction Card allows the user to endorse 5 top adjectives that they associate with the website.
 
-### Demographic questions
-These were standard questions to gather demographic information about the user. I placed these at the end of the questionnaire to prevent these questions from influencing responses on the usability test (stereotype threat, bias).
+At the end of the session, I asked questions to gather demographic information about the user. I placed these at the end of the questionnaire to prevent these questions from influencing responses on the usability test (stereotype threat, bias).
 
 ## What I learned
 * Users' evaluation of the severity of problems differed quite a bit from my own.
