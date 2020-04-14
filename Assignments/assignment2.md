@@ -1,7 +1,7 @@
 # Assignment 2: Usability Testing
 
 ## What is usability testing?
-Usability testing is a way to gather empirical data from your users that can inform you about how usable your product is. 
+Usability testing is a way to gather empirical data from your users about how usable your product is. 
 This testing can be done early on during the product development as a formative assessment or later after the product launches as validation.
 Testing early on can eliminate usability issues before the product is launched, saving time, money, and effort in the long run.
 Testing later on to validate the product can help ensure that it is up to standards. 
@@ -38,20 +38,25 @@ Before I do a full usability test with this website, I conducted this pilot test
 
 For the pilot test, I used ActivePresenter to record the user and their interaction with the website. Because of limited access to formal testing spaces, I set up a minimalist portable test lab in my apartment consisting of my laptop, mouse, and desk.
 
-View the pilot test [here](https://drive.google.com/file/d/1Tp4MPKEWIrv2myS8fOpG4XTyMJgXp2jQ/view?usp=sharing).
+View the pilot test [here](https://drive.google.com/open?id=1mLQ8xWZVQ2Cs4S_AJsWJUXzzl03UD0pc).
+
 
 ### Pilot Testing Process
 To get the most out of our usability testing, I needed to consider what questions to ask regarding the user's experience the website before, during, and after completing the usability test tasks. 
 
 The questionnaire can be broken into the following segments:
 
-1. Background questions
-2. Pre-test questions
-3. Task Scenarios
-4. Post-test questions
+1. Informed consent
+2. Background questions
+3. Pre-test questions
+4. Task Scenarios
+5. Post-test questions
     * [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
     * [Product Satisfaction Card](https://elearn.uni-sofia.bg/pluginfile.php/55103/mod_resource/content/0/Resources/Systems_Evaluation/DesirabilityToolkit.doc)
-5. Demographic questions
+6. Demographic questions
+
+#### Informed Consent
+This is crucial to any research study, as it informs the user about the purpose of the testing and about their rights as a participant. 
 
 #### Background questions
 These are meant to capture any prior experiences that might influence the participant's test performance, such as previous exposure to the website or similar sites.
@@ -89,7 +94,7 @@ These were standard questions to gather demographic information about the user. 
 ## What I learned
 * Users' evaluation of the severity of problems differed quite a bit from my own.
 * Users don't always take the path that you would have taken to solve the problem.
-* Users are willing to tolerate some more global usability issues, but may not tolerate more acute, smaller usability issues.
-* Some questions ("How likely are you to do this task?") were too ambiguous and needed my verbal clarification. These could be better articulated on the questionnaire.
-* Because of the unique purpose of this website (entertainment/art consumption), I should have included more measures of subjective sastisfaction that were specific to museum visits. For example, I could have included more qualitative measures of how immersive the user felt or how likely they would prefer this format over real-life museum visits.
-* Next time, I would also include measures of how much they would value a website that allows them to do virtual museum tours.
+* Users are willing to tolerate some more global usability issues (needing to open separate tabs to view artwork in detail), but may not tolerate more acute, smaller usability issues (not being able to scroll while hovering over specific content).
+* Some questions ("How likely are you to do this task?") were ambiguous and needed my verbal clarification. These could be better articulated on the questionnaire.
+* Because of the unique purpose of this website (entertainment/art consumption), I should have included more measures of subjective sastisfaction that are specific to museum visits. For example, I could have included more qualitative measures of how well the site highlighted the art or how likely they would prefer this format over real-life museum visits. 
+* Next time, I would also include measures of how much they would value a website that allows them to do virtual museum tours. This could inform me about how useful the website is.
