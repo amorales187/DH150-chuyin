@@ -77,6 +77,8 @@ Additionally, I included standard measures of satisfaction (System Usability Sca
 
 At the end of the session, I asked questions to gather demographic information about the user. I placed these at the end of the questionnaire to prevent these questions from influencing responses on the usability test (stereotype threat, bias).
 
+[Here](https://drive.google.com/file/d/1mLQ8xWZVQ2Cs4S_AJsWJUXzzl03UD0pc/view?usp=sharing) is a video of the full pilot test session.
+
 ## What I learned
 * Users' evaluation of the severity of problems differed quite a bit from my own.
 * Users don't always take the path that you would have taken to solve the problem.
