@@ -1,6 +1,8 @@
 # Assignment 2: Usability Testing
 
-## What is usability testing?
+## Introduction
+The Frick Collection Virtual Tour allows the public to tour the interior of the Frick Collection, a museum and research center that houses Old Master paintings and European art. It showcases the museum's art collection through panoramic photos, which the user can navigate through using a control panel. To evaluate how users interact with this site, I conducted a usability test on the Frick Collection Virtual Tour.
+
 Usability testing is a way to gather empirical data from your users about how usable your product is. 
 This testing can be done early on during the product development as a formative assessment or later after the product launches as validation.
 Testing early on can eliminate usability issues before the product is launched, saving time, money, and effort in the long run.
@@ -15,11 +17,17 @@ To conduct usability testing, you need:
 * a questionnaire
 
 The questionnaire typically consists of realistic tasks that users might do while using your product. These tasks should be outlined very concretely by the moderator, so that they can clearly assess whether the user was able to complete it or not.
-Questions aim to measure the efficiency, effectiveness, and satisfaction of your product. These are the three core principles of usability. 
-Besides giving users realistic scenarios in which to use the product, you can include Likert scale measures that capture more subjective aspects of the user experience, such as likelihood that the user would continue to use the product.
 
-## How heuristic evaluation can inform usability testing
-In assignment 1, I conducted a heuristic evaluation on the Frick Collection Virtual Tour website. I identified three major issues with the virtual tour experience:
+Besides giving users realistic scenarios in which to use the product, the researcher can include Likert scale measures that capture more subjective aspects of the user experience, such as likelihood that the user would continue to use the product.
+
+Before I do a full usability test with this website, I conducted this pilot test to evaluate whether I have chosen suitable tasks and questions that address the usability issues of interest.
+
+## Methodology
+For the pilot test, I used a live version of the Frick Collection Virtual Tour site located on my laptop. ActivePresenter was to record the user and their interaction with the website. Because of limited access to formal testing spaces, I set up a minimalist portable test lab in my apartment.
+
+The session lasted around 16 minutes, and the participant completed tasks relevant to the usability issues identified in a heuristic evaluation.
+
+In the heuristic evaluation, I identified three major issues with the virtual tour experience:
 
 1. Users are unable to see what pieces or collections are held in each room of the museum from the virtual tour screen
 2. The map is not readily accessible from the virtual tour screen
@@ -31,47 +39,32 @@ With these issues in mind, I crafted three scenarios to test with usability test
 2. "Walking" through the virtual museum by traveling from room to room
 3. Viewing multiple paintings from one room, in detail
 
-For the detailed step-by-step scenarios I included, check out the full [questionnaire](https://forms.gle/RsvqniBv2tfaro7S6).
+For the detailed step-by-step scenarios I included, here is the full [questionnaire](https://forms.gle/RsvqniBv2tfaro7S6).
 
-## Pilot Usability Testing for The Frick Collection Virtual Museum Tour
-Before I do a full usability test with this website, I conducted this pilot test to evaluate whether I have chosen suitable tasks and questions that address the usability issues of interest.
+The questionnaire included the following:
 
-For the pilot test, I used ActivePresenter to record the user and their interaction with the website. Because of limited access to formal testing spaces, I set up a minimalist portable test lab in my apartment consisting of my laptop, mouse, and desk.
-
-View the pilot test [here](https://drive.google.com/open?id=1mLQ8xWZVQ2Cs4S_AJsWJUXzzl03UD0pc).
-
-
-### Pilot Testing Process
-To get the most out of our usability testing, I needed to consider what questions to ask regarding the user's experience the website before, during, and after completing the usability test tasks. 
-
-The questionnaire can be broken into the following segments:
-
-1. Informed consent
-2. Background questions
-3. Pre-test questions
-4. Task Scenarios
-5. Post-test questions
+1. Background questions
+2. Pre-test questions
+3. Task Scenarios
+4. Post-test questions
     * [System Usability Scale (SUS)](https://www.usability.gov/how-to-and-tools/methods/system-usability-scale.html)
     * [Product Satisfaction Card](https://elearn.uni-sofia.bg/pluginfile.php/55103/mod_resource/content/0/Resources/Systems_Evaluation/DesirabilityToolkit.doc)
-6. Demographic questions
+5. Demographic questions
 
-#### Informed Consent
-This is crucial to any research study, as it informs the user about the purpose of the testing and about their rights as a participant. 
-
-#### Background questions
-These are meant to capture any prior experiences that might influence the participant's test performance, such as previous exposure to the website or similar sites.
+### Background questions
+These captured any prior experiences that might influence the participant's test performance, such as previous exposure to the website or similar sites.
 
 In this case, I asked the user whether they had visited the Frick Collection Virtual Tour site before.
 
-#### Pre-test questions
-These can help clarify the goals of the usability test, including initial impressions and whether they value the product.
+### Pre-test questions
+These helped clarify the goals of the usability test, including initial impressions and whether they value the product.
 
 Here I asked the user how easy/difficult the virtual tour interface appeared and what they thought the controls at the bottom did.
 
-#### Task Scenarios
-This is the core of the usability test. In this section, I focused on testing the effectiveness of the site (whether the user could complete certain tasks or not). Through the user's facial expressions and verbal comments, I also gleaned a bit about their satisfaction.
+### Task Scenarios
+These were the core of the usability test. In this section, I focused on testing the effectiveness of the site (whether the user could complete certain tasks or not). Through the user's facial expressions and verbal comments, I also learned about their satisfaction.
 
-Based on the findings of my heuristic evaluation, I decided on these three tasks:
+Tasks: 
 
 **1. Finding a specific painting by name**
    - In this task, I wanted to test whether the user would find it difficult to jump between the search function on the main site and the virtual tour itself
@@ -85,12 +78,12 @@ Based on the findings of my heuristic evaluation, I decided on these three tasks
    - Another test of immersion
    - I wanted to test how the user reacted to having to open a new tab to view a painting, as well as not being able to view it in full screen
 
-#### Post-test questions
-Here I assessed user perceptions of the difficulty and efficiency of tasks they just completed. Additionally, I included standard measures of satisfaction (SUS) and perceptions (Product Satisfaction Card).
+### Post-test questions
+After the user completed the tasks, I assessed user perceptions of the difficulty and efficiency of tasks they just completed using 7-point Likert scales (Very easy/quick to Very difficult/long). 
 
-This section mainly consisted of statements paired with Likert Scale responses, which the users could endorse to different degrees.
+Additionally, I included standard measures of satisfaction (System Usability Scale) and perceptions (Product Satisfaction Card). The System Usability Scale includes items to assess ease of use and learnability. The Product Satisfaction Card allows the user to endorse 5 top adjectives that they associate with the website.
 
-#### Demographic questions
+### Demographic questions
 These were standard questions to gather demographic information about the user. I placed these at the end of the questionnaire to prevent these questions from influencing responses on the usability test (stereotype threat, bias).
 
 ## What I learned
