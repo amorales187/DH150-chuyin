@@ -73,15 +73,17 @@ This is the core of the usability test. In this section, I focused on testing th
 
 Based on the findings of my heuristic evaluation, I decided on these three tasks:
 
-1. Finding a specific painting by name
-* In this task, I wanted to test whether the user would find it difficult to jump between the search function on the main site and the virtual tour itself
-* Since the paintings are catalogued in a database separate from the virtual tour window, I anticipated some difficulty here
-2. "Walking" through the virtual museum by traveling from room to room
-* I chose this task because I imagine that users who seek out a virtual museum experience expect some degree of immersion or similarity to a real life museum visit
-* I foresaw some difficulties here due to the poor integration of the museum map and the virtual rooms
-3. Viewing multiple paintings from one room, in detail
-* Another test of immersion
-* I wanted to test how the user reacted to the limited ability to view the paintings in an immersive way, which is a central component of the museum experience
+**1. Finding a specific painting by name**
+   - In this task, I wanted to test whether the user would find it difficult to jump between the search function on the main site and the virtual tour itself
+   - Since the paintings are catalogued in a database separate from the virtual tour window, I anticipated some difficulty here
+
+**2. "Walking" through the virtual museum by traveling from room to room**
+   - I chose this task because I imagine that users who seek out a virtual museum experience expect some degree of immersion or similarity to a real life museum visit
+   - I foresaw some difficulties here due to the poor integration of the museum map and the virtual rooms
+
+**3. Viewing multiple paintings from one room, in detail**
+   - Another test of immersion
+   - I wanted to test how the user reacted to having to open a new tab to view a painting, as well as not being able to view it in full screen
 
 #### Post-test questions
 Here I assessed user perceptions of the difficulty and efficiency of tasks they just completed. Additionally, I included standard measures of satisfaction (SUS) and perceptions (Product Satisfaction Card).
