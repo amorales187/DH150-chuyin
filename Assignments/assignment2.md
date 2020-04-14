@@ -41,6 +41,7 @@ With these issues in mind, I crafted three scenarios to test with usability test
 
 For the detailed step-by-step scenarios I included, here is the full [questionnaire](https://forms.gle/RsvqniBv2tfaro7S6).
 
+### Materials
 The questionnaire included the following:
 
 1. Background questions
@@ -51,6 +52,7 @@ The questionnaire included the following:
     * [Product Satisfaction Card](https://elearn.uni-sofia.bg/pluginfile.php/55103/mod_resource/content/0/Resources/Systems_Evaluation/DesirabilityToolkit.doc)
 5. Demographic questions
 
+### Procedure
 First, I asked the participant about prior experiences that might have influenced the participant's test performance, such as previous exposure to the website or similar sites. Specifically, I asked the user whether they had visited the Frick Collection Virtual Tour site before. Because the participant had not used the site before, I skipped to the pre-test questions to understand the participant's initial impressions. I asked the user how easy/difficult the virtual tour interface appeared and what they thought the controls at the bottom did.
 
 Then, I read aloud the task scenarios and invited the participant to try to complete them on the site. The participant recorded whether or not they were able to complete each task, and also provided live commentary about the features of the site.
