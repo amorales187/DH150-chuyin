@@ -3,24 +3,22 @@
 In the process of learning about my target users, I found that many of my design ideas shifted. I thought it would be interesting to document the before and after of my design challenge and target user definition.
 
 ## Design Challenge 
-Before CI:
 
-How might I design an engaging online experience that highlights the stories of Asian Americans?
+How might I design an accessible digital experience that shares the histories of Asian Americans and the current issues facing AAPI communities?
 
-After CI:
+My project hopes to support users in their search for narratives that relate to them and to find sources of information on their community. In particular, this project aims to provide Asian Americans with a sense of belonging and solidarity with a community whose history has helped shaped America. 
 
-How might I design an accessible digital experience that disseminates the issues facing AAPI communities and connects people with resources?
+Currently, the sources for historical narratives on Asian Americans is quite scattered online and offline. Because there are so many communities within Asian America, there are many separate websites which aim to serve these specific populations and their needs. There are few websites that consolidate this info in an easily digestible, engaging manner. In person, there are cultural organizations, including museums, that share a similar goal: to showcase the stories of Asian America to the public. However, museums are constrained by their physical location, and sometimes charge entrance fees. 
+
+I hope that by digitizing and consolidating these histories, I can make Asian American history more accessible.
 
 ## Target Users
-Before CI:
 
-I am creating this website for anyone who is interested in Asian American history and contemporary stories about Asian American individuals. However, because of the digital nature of the project, target users must be able to access the internet. 
-Specifically, I would like to make this website easy to understand for the public. It does not strive to be a reference for academic researchers.
+I want to create a website that empowers the public, including casual consumers and academic researchers, to understand the histories of Asian Americans. Because of its digital nature, users must have access to the internet.
 
-After CI:
-
-I want to create a website that empowers the public, including academic researchers, to understand the history of Asians in American and to connect with organizations that serve their community.
 While it is not intended to be a primary source for academic research, it may provide a broad and structured overview on issues in the Asian American literature.
+
+Users would be able to access this collection from anywhere there is internet. On the site, they could navigate chronologically to view events in Asian American history.
 
 ## Research Methods
 
@@ -29,15 +27,16 @@ To gain a better sense of how I could create a website that is useful to differe
 The session consisted of the following sections:
 
  **1.	Background questions**
-  a.  I wanted to learn about what a typical day looks like for the target users, and how my website could support those daily tasks. I also asked about any enjoyable and frustrating experiences they had that were not necessarily related to searching Asian American history.
+    a.  I wanted to learn about what a typical day looks like for the target users, and how my website could support those daily tasks. I also asked about any enjoyable and frustrating experiences they had that were not necessarily related to searching Asian American history.
   
  **2.	Observation**
-  a.	I allowed the user to search up a topic that they wished to learn more about and asked that they think aloud.
+    a.	I allowed the user to search up a topic that they wished to learn more about and asked that they think aloud.
   b.	When users refined their search or chose certain results, I asked follow-up questions to clarify their thought process.
   
  **3.	Follow-up questions**
-  a.	These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
+    a.	These were directive. I sought to understand alternative sources of information that users tapped into, besides the one shown in the observation period.
 
+### Interview Audio File
 You can find the audio file of the interview [here](https://ucla.box.com/s/z930enkts8r8oeehol23fidaz7tymfmp)
 
 ### Contextual Inquiry Guide & Transcript
@@ -46,6 +45,20 @@ Before conducting the interview, I outlined some questions in [this guide](https
 View the full transcript [here](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/DH%20150%20Contextual%20Inquiry%20Transcript.pdf).
 
 Find my observation notes [here](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/Contextual%20Inquiry%20Field%20Notes.pdf).
+
+## Insights from the interview
+
+:one: The user feels that there is a disconnect between what goes on in academia versus in the community
+> I do think that Asian American Studies is very centered in academia. And sometimes the professors...elaborate these very difficult terminologies and context and it's very hard to like relate it back to community
+
+:two: In the initial stages of learning about a topic, the user prefers brief, well-organized sources of information
+> So I definitely prefer, like, easier to consume media. And I think PBS does a great job of catering to the larger population... They have resources for both really young kids and older adults, and PBS is like one of my go-tos. I don't like Wikipedia as much because they just put a lot of information and it's hard to siphon out what's really relevant
+
+:three: When skimming for relevant sources, the user relies on the tags accompanying each search result
+> Okay, so this one looks really good "Public health and the mapping of Chinatown", right? Because it has all the words I kinda like want: "epidemics", "living conditions" 
+
+:four: A clear timeline of events (with brief descriptions) helps the user map out their time period of interest
+> So the four ordinances I'm kind of focusing on for my paper is Cubic Air ordinance, Sidewalk ordinance, Queue ordinance, and Laundry ordinance. I like how they're chronologically listed out so that I can know when and where that goes from.
 
 ## Reflection
 Coming into the interview, I thought I had a fairly clear idea of what I wanted to design and who I wanted to design it for. I had envisioned a product that I would have loved to have, especially before coming to college. However, this contextual inquiry allowed me to step out of my own experience and empathize with the user's. 
