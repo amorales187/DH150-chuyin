@@ -8,14 +8,14 @@ Creating personas and scenarios helps us to avoid common pitfalls when designing
 In the former case, we assume that our users' needs and mental models are the same as ours, when this is rarely the case. In the latter case, the user is too ambiguous and we may end up designing a product that doesn't satisfy anyone's needs.
 
 ## Three features to design
-:one: Interactive timeline that shows historical events
+:one: **Interactive timeline that shows historical events \[Leila\]**
 - can be sorted by time period, event type, ethnic group
 
-:two: Videos and Interviews discussing contemporary issues and history
-- oral histories, interviews of experts, video summaries
-
-:three: Teaching resources to create lesson plans about Asian American history
+:two: **Teaching resources to create lesson plans about Asian American history \[Jen\]**
 - worksheets, activities, book recommendations
+
+:three: **Videos and Interviews discussing contemporary issues and history \[Matt\]**
+- oral histories, interviews of experts, video summaries
 
 ## Personas
 ![Leila's Persona](https://github.com/yinyinwen/DH150-chuyin/blob/master/images/Leila%20Persona.png)
