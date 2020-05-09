@@ -6,10 +6,12 @@ This website allows users to:
 - Watch videos and documentaries about art, culture, social issues, and politics
 - Find teaching resources to support curriculums related to Asian American topics
 
-To evaluate the flow of screens on the website before I create a high-fidelity prototype, I created low-fi paper prototypes to check them in context of the user's mental models.
+To evaluate the logic and flow of the website screens, I created low-fi paper prototypes to test with users early on in the design process.
 
 ## Wireframes
 
 ## Wireflow
 
 ## Testing the Prototype
+
+## Reflection
