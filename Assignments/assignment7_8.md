@@ -4,7 +4,18 @@ With my project, The Stories of Asian America, I hope to create a space for Asia
 To bring my project to life, I created a high-fidelity prototype using Figma. A high-fidelity prototype helps me envision what the end product might look like, and provides a concrete visualization that can be tested with users. These prototypes can emulate a user flow, allowing me to also test how usable the website is. By alternating between designing screens and testing with users, I can iterate towards a better user experience.
 
 ## Designing the Graphical User Interface (GUI)
+I wanted the website to evoke a sense of calm and wonder. To communicate this, I chose light, modern typefaces and a cool, muted color palette. 
 
+Using the Figma A11y Plugin, I checked that all of the colors passed the WCAG AA standard for accessibility.
+
+## The Wireflow & Prototype
+
+## Impression Test
+
+## Cognitive Walkthrough
+
+## Iterating
+Based on the feedback from my usability testing, impression test, and cognitive walkthroughs, I made the following changes:
 
 ## References
 I drew from these amazing resources to create the content on my prototype:
