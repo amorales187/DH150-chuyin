@@ -6,11 +6,19 @@ To bring my project to life, I created a high-fidelity prototype using Figma. A 
 ## Designing the Graphical User Interface (GUI)
 I wanted the website to evoke a sense of calm and wonder. To communicate this, I chose light, modern typefaces and a cool, muted color palette. 
 
-Using the Figma A11y Plugin, I checked that all of the colors passed the WCAG AA standard for accessibility.
+Using the Figma A11y Plugin, I checked that all of the colors passed the WCAG 2.0 AA standard for accessibility.
 
 ## The Wireflow & Prototype
 
+The prototype can be found **[here](https://www.figma.com/proto/G5iedvdS5XeQVSHvBk9QID/DH150-Final-Project?node-id=16%3A13&scaling=scale-down-width)**
+
 ## Impression Test
+For impression test, I recruited a friend to give feedback on the landing page of the website. The test was conducted over Zoom, and I shared my screen for around 10 seconds. To preface the test, I told the participant to think of three adjectives that described the website, as well as what they thought the website was about.
+
+The participant described the site as **clean**, **concise**, and **pleasing to look at**. They also said the website appeared to be a website containing resources for someone who would want to learn a bit about Asian American history.
+
+Audio transcript [here]().
+
 
 ## Cognitive Walkthrough
 
@@ -18,8 +26,7 @@ Using the Figma A11y Plugin, I checked that all of the colors passed the WCAG AA
 Based on the feedback from my usability testing, impression test, and cognitive walkthroughs, I made the following changes:
 
 ## References
-I drew from these amazing resources to create the content on my prototype:
-
+I drew from these awesome resources to create the content on my prototype:
 
 **The Joy Luck Club Lesson Plan**
 [Joy Luck Club Lesson Plan](http://averbach.weebly.com/uploads/1/2/2/5/12255095/the_joy_luck_club_lesson_plan.pdf)
