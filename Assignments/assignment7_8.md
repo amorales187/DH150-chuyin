@@ -1,5 +1,5 @@
 # High-fidelity Prototype
-With my project, The Stories of Asian America, I hope to create a space for Asian American history on the internet. This website aims to encourage interethnic solidarity by placing the stories of all Asian American communities (East, Southeast, South Asians) in one place. Whether you are a student, a teacher, or just a life-long learner, you can explore Asian American narratives through our timeline, lesson plans, and videos. 
+With my project, *The Stories of Asian America*, I hope to create a space for Asian American history on the internet. This website aims to encourage interethnic solidarity by placing the stories of all Asian American communities (East, Southeast, South Asians) in one place. Whether you are a student, a teacher, or just a life-long learner, you can explore Asian American narratives through our timeline, lesson plans, and videos. 
 
 To bring my project to life, I created a high-fidelity prototype using Figma. A high-fidelity prototype helps me envision what the end product might look like, and provides a concrete visualization that can be tested with users. These prototypes can emulate a user flow, allowing me to also test how usable the website is. By alternating between designing screens and testing with users, I can iterate towards a better user experience.
 
