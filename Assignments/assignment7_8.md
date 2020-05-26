@@ -19,6 +19,8 @@ The participant described the site as **clean**, **concise**, and **pleasing to 
 
 Audio transcript [here]().
 
+Impression test 2
+pretty, professional, trustworthy, about asian american history 
 
 ## Cognitive Walkthrough
 
