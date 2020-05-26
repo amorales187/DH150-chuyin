@@ -33,32 +33,60 @@ Overall, the participants seemed to think the website was aesthetically pleasing
 
 ## Cognitive Walkthrough
 In class, I asked a few classmates to complete a cognitive walkthrough on my website. The questions and responses are as follows: 
+
 * What do you think you can do with this website? (showed the Landing page)
-- Participants said it seems to be a news/history website and were expecting to learn about Asian American history
-- They were a bit confused about the difference between the "Lesson Plans" tab and the "History Videos" tab, assuming that they would contain similar content (ie. a teacher teaching us about history)
-- They also said it seems to be centered around the timeline feature because of the "View Timeline" button on the landing page
+> Participants said it seems to be a news/history website and were expecting to learn about Asian American history
+> They were a bit confused about the difference between the "Lesson Plans" tab and the "History Videos" tab, assuming that they would contain similar content (ie. a teacher teaching us about history)
+> They also said it seems to be centered around the timeline feature because of the "View Timeline" button on the landing page
 * Is there anything inconsistent, missing, or confusing?
-- They commented that it was difficult to tell that the current website title (Stories of Asian America) was the actual title, and not just a page header
+> They commented that it was difficult to tell that the current website title (Stories of Asian America) was the actual title, and not just a page header
 
 In response to the feedback, I made the following changes:
 
-:one: I changed the "Lesson Plans" page title to "For Teachers" to make it clearer that it contained teaching materials
+1) I changed the "Lesson Plans" page title to "For Teachers" to make it clearer that it contained teaching materials
 
-:two: I changed the font of the website title (used to be the same font as page headers) and placed a box around it to differentiate it from a page header
+2) I changed the font of the website title (used to be the same font as page headers) and placed a box around it to differentiate it from a page header
 
 ## Usability Testing
-To check whether the flow for each of the tasks was clear, I conducted usability testing with 
+To check whether the flow for each of the tasks was clear, I conducted usability testing with two participants over Zoom. 
+
+# Tasks
+1. Users were asked to navigate to a specific act on the timeline
+2. Users had to find more information on a specific timeline event
+3. Users were asked to download materials for a lesson plan
+4. Users had to view a video documentary
+
+[*Here*](https://forms.gle/4CEuACvMxx3pWUQP6) is a link to the exact questionnaire. 
+
+# Findings
+:one: *All participants were able to complete all 4 tasks*
+- However, both participants struggled a bit with the second task, finding more information on a specific timeline event. This may have been partially caused by the ambiguous wording on the usability test questionnaire, which did not map onto specific interaction points. I initially left it vague to see how the users would interpret it, since the vague wording would be more akin to a user's goal upon using the timeline. The task was to "find more info", while the button on the page was "Related articles". 
+- On that same task, another user tried to click on the "Source" button, which is understandable as part of the task was to "find the original source" of more information (related article)
+
+:two: *Both participants found the website valuable, stating that it was unique.*
+
+:three: *Both participants seemed to have the easiest time with downloading materials for a lesson plan*
+
+:four: *Both participants relied heavily on the filters for completing tasks 1, 2, and 4*
+
+:five: *Both participants expected to be able to click on the headers (of timeline events, lesson plans, videos, etc), rather than just relying on separate buttons*
+- In response to this, I made the headers clickable so users could either choose to click a separate button (eg. "View video") or they could just click on the title itself
+
+## Reflection
+It was really insightful to interweave both prototyping/designing with user research because testing with users gave me confidence as to whether I was creating things that made sense to the users. It is very difficult to gauge what the user's mental model will be, and I learned new possible ways of interacting with my website with each new participant I observed. 
+
+Based on feedback from my usability tests, I would focus more on creating many avenues to get to a goal because each user seemed to prefer something different. For the timeline feature, I would like to add a filter feature that allows searching by a specific date range so users have an alternative to scrolling manually through the events. I would also start the prototype without any filters (I had it preset to filter to Filipino American history events), since this is more in line with what a first-time user would expect. 
 
 ## References
 I drew from these awesome resources to create the content on my prototype:
 
-**The Joy Luck Club Lesson Plan**
-[Joy Luck Club Lesson Plan](http://averbach.weebly.com/uploads/1/2/2/5/12255095/the_joy_luck_club_lesson_plan.pdf)
+**The Joy Luck Club Lesson Plan**  
+* [Joy Luck Club Lesson Plan](http://averbach.weebly.com/uploads/1/2/2/5/12255095/the_joy_luck_club_lesson_plan.pdf)
 
 **Timeline Events**
-[PBS Asian American History Timeline](https://www.pbs.org/ancestorsintheamericas/timeline.html)  
-[Routes and Roots Timeline](https://sites.google.com/site/centralcoastroutesandroots/migrating-to-the-us/legal-timeline)  
-[BakitWhy Filipino History](http://bakitwhy.com/articles/timeline-pilipinos-america)
+* [PBS Asian American History Timeline](https://www.pbs.org/ancestorsintheamericas/timeline.html)  
+* [Routes and Roots Timeline](https://sites.google.com/site/centralcoastroutesandroots/migrating-to-the-us/legal-timeline)  
+* [BakitWhy Filipino History](http://bakitwhy.com/articles/timeline-pilipinos-america)
 
 **History Videos**
-[Center for Asian American Media](https://caamedia.org/films/page/2/)  
+* [Center for Asian American Media](https://caamedia.org/films/page/2/)  
