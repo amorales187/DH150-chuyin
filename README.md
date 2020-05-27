@@ -1,11 +1,13 @@
 # Stories of Asian America
 ## Chu Yin Wen
 
-### Introduction: a brief information about the project. 
-What is the project about? The motivation of the project and possible contribution.
+### Introduction
+Understanding the history of our people empowers us to stand in solidarity with our contemporary communities. For Asian Americans, our histories are not always easily accessible through mainstream institutions. Throughout the history of the US, the narratives of Asian Americans have been marginalized and erased. With this project, I want to create a digital space for those narratives to be shared. Specifically, I want to create a digital museum that is accessible by people of diverse backgrounds. This includes people of different ethnicities, ages, and technological abilities.
+
+By creating this digital museum, I hope to amplify the voices of the Asian American community within the public sphere.
 
 ### Clear design statement: 
-What is the issue and Why do you think it is important to resolve that issue by your project? 
+With my project, The Stories of Asian America, I hope to create a space for Asian American history on the internet. This website aims to encourage interethnic solidarity by placing the stories of all Asian American communities (East, Southeast, South Asians) in one place. Whether you are a student, a teacher, or just a life-long learner, you can explore Asian American narratives through our timeline, lesson plans, and videos.
 
 ### Competitor analysis [assignment01 & 02]:
 Summary and link to the heuristics and usability testing of the *existing* product(s) - or the *original* website you evaluated
